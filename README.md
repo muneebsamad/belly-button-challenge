@@ -7,6 +7,8 @@ Main folder contains index.html and samples json file.
 
 The html will populate the respective bar chart and bubble charts to reflect the inquired test subject ID # and demographic info.
 
+Please note the git hub page is included with this submission.
+
 References: 
 
 
